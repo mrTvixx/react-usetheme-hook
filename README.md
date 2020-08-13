@@ -1,2 +1,3 @@
 # react-usetheme-hook
-Created with CodeSandbox
+
+Implemented react hook to control the color scheme of the site
