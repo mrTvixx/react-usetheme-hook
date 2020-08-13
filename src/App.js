@@ -15,7 +15,7 @@ const App = () => {
   return (
     <div>
       <button
-        style={theme["text"]}
+        style={theme["button"]}
         className="btn-class"
         onClick={onThemeChange}
       >
