@@ -1,0 +1,9 @@
+.p-class {
+  padding: 20px;
+}
+
+.btn-class {
+  padding: 5px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
